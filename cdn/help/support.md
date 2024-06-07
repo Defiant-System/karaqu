@@ -1,15 +1,18 @@
 
-### About Karaqu
----
-*Your Computer With You, Even When It’s Not*
+## Support Karaqu
 
-Imagine a world where your computer wasn’t tied to a physical computer, but rather 
-a computer that lived on the Internet, instantly accessible from any computer or 
-mobile phone connected to the Internet, no matter where you are or what you are up 
-to. **Karaqu** offers just this.
+**Karaqu** is a self-funded project - if you like what **Karaqu** as technology & product
+is trying to deliver to you, please consider supporting it. At least for a few months.
+It only costs $15 per month.
 
-With **Karaqu**, every computer, in school, at work, at your friends’ or even in the 
-library becomes your own, free of charge computer. And with **Karaqu** Mobile your online 
-computer is accessible from your mobile phone as well.
+As time passes & **Karaqu** development continues, more functionality will be brought
+to you for the same cost and without ads.
 
-Use **Karaqu** as your default computer, or use it side by side with your work or home computer.
+### Zero ads. Zero data collection
+There will never be ads in **Karaqu**. The goal is to bring you and environment free from 
+distractions and for your to submerge in what ever you decide to do.
+
+**Karaqu** does not collect about your usage of it. Some applications save information so 
+that your preferences are remembered between sessions. Another example is games that saves 
+your progression, so that your accomplishements are not forgotten. Having said that, you
+can easily monitor these data and delete them if you prefer to do so.

@@ -7,3 +7,7 @@
 
 * Apps
 	* [Build-in Apps](Apps/Build-in Apps.md)
+
+* Project
+	* [Support](Support.md)
+	* [Privacy Policy](Privacy-Policy.md)

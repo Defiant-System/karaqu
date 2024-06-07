@@ -15,9 +15,11 @@ from any computer or mobile phone.
 
 ### Invite friends
 ---
-**Karaqu** is currently in closed-beta. You can invite friends, family &amp; co-workers by sending
-them inivitation codes - only when you have upgraded to a premium account. Once you have upgraded,
-you can send up to 15 invitations daily - your "guests" will receive an email as soon as possible.
+**Karaqu** is now in beta phase. You can invite friends, family &amp; co-workers by sending
+them inivitations with [System Preferences]($preferences|{"type":"go-to","view":"invitations"}).
+With friends as contact, you can [chat]($chat) or make [video calls]($bell) using
+[Peer-to-Peer](//en.wikipedia.org/wiki/Peer-to-peer) technology. This means the exchange of data
+is explicitly between you and your contact - without **Karaqu** servers in between.
 <br/><br/>
 
 ### Cloud Architecture
@@ -41,5 +43,13 @@ ever seen before on any existing platform.
 
 **Karaqu** features an open, powerful, stable and versatile development environment. With the 
 click of a mouse button you can get started with creating applications for yourself, a 
-group of people or even everyone. A versatile developer can make money out of this very quickly.
+group of people or even everyone.
+<br/><br/>
+
+### Support
+---
+This project is developed by me, Hakan Bilgin, with heart and soul and a lot 
+of commitment since 2019 in the hope that it will be of use to you. If you 
+like it, I would be happy if you get premium account to support me and the 
+project - it is only $15 / month.
 
