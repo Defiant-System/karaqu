@@ -2,7 +2,7 @@
 
 Defian System AB manages your personal data in association with your purchase of our products 
 and the provision of our services at <a href="//defiantsystem.com">defiantsystem.com</a> and other
-Karaqu related applications that are made accessible by us.
+<b>Karaqu</b> related applications that are made accessible by us.
 <br/><br/>
 Your privacy is key to us and we always want to make sure that you feel safe and informed 
 when using our services. This privacy policy is intended to give you all the information you 

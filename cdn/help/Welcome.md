@@ -11,13 +11,33 @@ become completely cloud-based.
 **Karaqu** moves everything online! All your applications, 
 documents, photos, music and all other files are online - you can access them no matter where you are,
 from any computer or mobile phone.
-<br/><br/>
+
+<blockquote>
+The filesystem operations are disabled in the free version. In order to upload files, save, etc to your
+account, please upgrade to premium in 
+<nobr><span data-click="karaqu-shell" data-arg="win -o preferences" data-pipe="{'type':'go-to','view':'accountPurchases'}">System Preferences</span></nobr>.
+</blockquote>
+
+
+### Look &amp; Feel
+---
+You can adapt **Karaqu** to your likings in [System Preferences]($preferences|{"type":"go-to","view":"general"}).
+Here you can select wallpapers best fitting your taste as well as appearance themes.
+Additionally you can select among 50 different screensavers.
+Below is just a few of themes available.
+
+ * [Karaqu Dark]($gui/-o/karaqu-dark)
+ * [Royale Purple]($gui/-o/royale-purple)
+ * [Royale Amber]($gui/-o/royale-amber)
+ * [Frosted Glass]($gui/-o/glass-frosted)
+ * [Distorted Glass]($gui/-o/glass-distorted)
+
 
 ### Invite friends
 ---
 **Karaqu** is now in beta phase. You can invite friends, family &amp; co-workers by sending
 them inivitations with [System Preferences]($preferences|{"type":"go-to","view":"invitations"}).
-With friends as contact, you can [chat]($chat) or make [video calls]($bell) using
+By adding a friend as a contact, you can [chat]($chat) or make [video calls]($bell) using
 [Peer-to-Peer](//en.wikipedia.org/wiki/Peer-to-peer) technology. This means the exchange of data
 is explicitly between you and your contact - without **Karaqu** servers in between.
 <br/><br/>
