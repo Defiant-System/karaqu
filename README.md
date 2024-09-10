@@ -5,9 +5,9 @@ This repository is primarily used for issue tracking.
 ## Raspbian Buster Lite installation
 
 sudo raspi-config
-  # change password
-  # boot / autologin as pi
-  # enable ssh
+  * change password
+  * boot / autologin as pi
+  * enable ssh
 
 sudo apt-get install git python3-pip
 
@@ -18,21 +18,21 @@ git clone https://github.com/pimoroni/fanshim-python
 	sudo ./install-service.sh --on-threshold 65 --off-threshold 55 --delay 2
 
 sudo nano /boot/config.txt
-  # at the end of file:
+  * at the end of file:
   disable_splash=1
 
 sudo nano /boot/cmdline.txt
-  # change to:
+  * change to:
     console=tty3
 
-  # at end of line:
+  * at end of line:
     quiet logo.nologo vt.global_cursor_default=0
 
 
 
 sudo apt-get install fbi
 
-# copy splash.png to pi-home
+### copy splash.png to pi-home
 scp splash.png pi@192.168.1.148:/home/pi/
 
 sudo nano /etc/systemd/system/splashscreen.service
@@ -87,7 +87,7 @@ sudo nano .bash_profile
 source .bash_profile
 
 
-# silences login messages
+### silences login messages
  sudo touch ~/.hushlogin
 
 sudo nano /etc/systemd/system/getty@tty1.service.d/autologin.conf
